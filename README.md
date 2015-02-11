@@ -1,5 +1,14 @@
 Freelancer Jekyll theme
 =========================
+## 2/10/15
+ 
+Changed color scheme, updated profile picture. Learning to create website with Jekyll.
+
+
+
+==============
+
+
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
@@ -25,7 +34,7 @@ description: The description of the project
 View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](http://guoanyi.com/wp-content/uploads/2015/02/Jekyll-Screencast-785x369.png)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
