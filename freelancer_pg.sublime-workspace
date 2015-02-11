@@ -1,0 +1,619 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acc",
+				"access_token_secret"
+			],
+			[
+				"cons",
+				"consumer_secret"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"month",
+				"monthlyInterestRate"
+			],
+			[
+				"mont",
+				"monthlyUnpaidBalance"
+			],
+			[
+				"monthl",
+				"monthlyInterestRate"
+			],
+			[
+				"mon",
+				"monthlyUnpaidBalance"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"item",
+				"itemalert"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bakcgrou",
+				"background-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"balti",
+				"baltimore_nonpoint"
+			],
+			[
+				"baltimore",
+				"baltimore_data"
+			],
+			[
+				"baltimo",
+				"baltimore_point"
+			],
+			[
+				"bal2008",
+				"bal2008_nononroad"
+			],
+			[
+				"bal2005",
+				"bal2005_nononroad"
+			],
+			[
+				"bal2002",
+				"bal2002_nononroad"
+			],
+			[
+				"bal1999",
+				"bal1999_nononroad"
+			],
+			[
+				"bal2008_",
+				"bal2008_onroad"
+			],
+			[
+				"bal1",
+				"bal1999_nononroad"
+			],
+			[
+				"bal2002_n",
+				"bal2002_nonpoint"
+			],
+			[
+				"bal199",
+				"bal1999_nonpoint"
+			],
+			[
+				"bal1999_",
+				"bal1999_nonpoint"
+			],
+			[
+				"Global",
+				"Global_reactive_power"
+			],
+			[
+				"next",
+				"next_scene_name"
+			],
+			[
+				"scen",
+				"scene_map"
+			],
+			[
+				"scne",
+				"scene_map"
+			],
+			[
+				"has",
+				"hashmap"
+			],
+			[
+				"state",
+				"states"
+			],
+			[
+				"get_",
+				"get_bucket"
+			],
+			[
+				"buck",
+				"bucket_id"
+			],
+			[
+				"hash",
+				"hash_key"
+			],
+			[
+				"num",
+				"num_buckets"
+			],
+			[
+				"bear",
+				"bear_room"
+			],
+			[
+				"gold",
+				"gold_room"
+			],
+			[
+				"startin",
+				"start_point"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"cu",
+				"current_file"
+			],
+			[
+				"curr",
+				"current_line"
+			],
+			[
+				"current",
+				"current_file"
+			],
+			[
+				"print_",
+				"print_a_line"
+			],
+			[
+				"amout",
+				"amount_of_crackers"
+			],
+			[
+				"amount",
+				"amount_of_cheese"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"boxes",
+				"boxes_of_crackers"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"cache",
+				"cacheSolve"
+			],
+			[
+				"number",
+				"number_of_columns"
+			],
+			[
+				"su",
+				"subjects"
+			],
+			[
+				"sbu",
+				"subjects"
+			],
+			[
+				"subje",
+				"subject"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"features_",
+				"features_index"
+			],
+			[
+				"X_t",
+				"X_test"
+			],
+			[
+				"y_",
+				"y_test"
+			],
+			[
+				"subject",
+				"subject_test"
+			],
+			[
+				"X_",
+				"X_test"
+			],
+			[
+				"pollu",
+				"pollutantmean"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"error",
+				"error_message"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_site/style.css",
+			"settings":
+			{
+				"buffer_size": 120902,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Anyi/Github_Repos/Freelancer_pg",
+		"/Users/Anyi/Github_Repos/Freelancer_pg/css",
+		"/Users/Anyi/Github_Repos/Freelancer_pg/css/font-awesome/fonts",
+		"/Users/Anyi/Github_Repos/Freelancer_pg/img"
+	],
+	"file_history":
+	[
+		"/Users/Anyi/Documents/R docs/yelp_data.json",
+		"/Users/Anyi/Github_Repos/APIs/Yelp/Yelp api credentials",
+		"/Users/Anyi/Github_Repos/APIs/Linkedin_python/linkedin1.py",
+		"/Users/Anyi/Github_Repos/APIs/Twitter_api_python/tweepy1.py",
+		"/Users/Anyi/Github_Repos/APIs/Twitter_api_python/Tweepy/tweepy1.py",
+		"/Users/Anyi/Github_Repos/APIs/Twitter_api_python/setup.py",
+		"/Users/Anyi/Github_Repos/coursera_python/untitled folder/W2Assign1",
+		"/Users/Anyi/Github_Repos/arete/js/main.js",
+		"/Users/Anyi/Github_Repos/arete/_data/questions.yml",
+		"/Users/Anyi/Github_Repos/arete/_sass/_layout.scss",
+		"/Users/Anyi/Github_Repos/arete/_sass/_base.scss",
+		"/Users/Anyi/Github_Repos/arete/_sass/_syntax-highlighting.scss",
+		"/Users/Anyi/Github_Repos/arete/_data/questions2.yml",
+		"/Users/Anyi/Github_Repos/arete/_includes/footer.html",
+		"/Users/Anyi/Github_Repos/arete/_data/answers.yml",
+		"/Users/Anyi/Github_Repos/arete/_includes/head.html",
+		"/Users/Anyi/Github_Repos/Arete_form/index.html",
+		"/Users/Anyi/Github_Repos/Arete_Form_Site/js/application.js",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Users/Anyi/Github_Repos/Arete_form/_includes/head.html",
+		"/Applications/MAMP/htdocs/js/application.js",
+		"/Users/Anyi/Github_Repos/Arete_form/_config.yml",
+		"/Users/Anyi/Github_Repos/Arete_form/_includes/footer.html",
+		"/Users/Anyi/Github_Repos/Arete_Form_Site/index.html",
+		"/Applications/MAMP/htdocs/githubpages.html",
+		"/Applications/MAMP/htdocs/index2.html",
+		"/Applications/MAMP/htdocs/README.md",
+		"/Users/Anyi/Arete_Form_Site/README.md",
+		"/Users/Anyi/Arete_Form_Site/index.html",
+		"/Users/Anyi/Downloads/Arete form site/index.html",
+		"/Users/Anyi/intro_to_cs_python/week3/W3L5P1.py",
+		"/Users/Anyi/comp_scie_Python/W2L3P9.py",
+		"/Users/Anyi/comp_scie_Python/W2PS2PT3.py",
+		"/Users/Anyi/comp_scie_Python/W2L4P10.py",
+		"/Users/Anyi/comp_scie_Python/W2L4P9.py",
+		"/Users/Anyi/comp_scie_Python/W2PS2PT2.py",
+		"/Users/Anyi/comp_scie_Python/W2PS2PT1.py",
+		"/Users/Anyi/comp_scie_Python/W2L4P11.py",
+		"/Users/Anyi/comp_scie_Python/W2L4P5.py",
+		"/Users/Anyi/comp_scie_Python/W2PS1PT3.py",
+		"/Users/Anyi/comp_scie_Python/W2PS1PT2.py",
+		"/Users/Anyi/comp_scie_Python/W2PS1 ",
+		"/Users/Anyi/comp_scie_Python/Week 2 L3 Problem 9",
+		"/Applications/MAMP/htdocs/faq.html",
+		"/Applications/MAMP/htdocs/blog.html",
+		"/Applications/MAMP/htdocs/demo.html",
+		"/Applications/MAMP/htdocs/style.css",
+		"/Applications/MAMP/htdocs/js/itemalert.js",
+		"/Applications/MAMP/htdocs/js/owl.theme.css",
+		"/Users/Anyi/Downloads/jquery-1.11.2.min.js",
+		"/Users/Anyi/Documents/R docs/codecademy labs note",
+		"/Users/Anyi/Documents/R docs/diary",
+		"/Users/Anyi/Documents/R docs/TotalEmission.R",
+		"/Users/Anyi/Documents/R docs/reproducible assign 1.R",
+		"/Users/Anyi/Documents/R docs/exploring data 1.R",
+		"/Users/Anyi/Desktop/ex2.py",
+		"/Users/Anyi/Desktop/hashmap.py",
+		"/Users/Anyi/Documents/R docs/best.r",
+		"/Users/Anyi/Documents/R docs/rankhospital.R",
+		"/Users/Anyi/Desktop/FindUsers.py",
+		"/Users/Anyi/Desktop/okc_arrow_fetcher.py",
+		"/Users/Anyi/Documents/R docs/data3/best.r",
+		"/Users/Anyi/Desktop/ex2_sample.txt",
+		"/Users/Anyi/Desktop/whatever.txt",
+		"/Users/Anyi/Documents/R docs/cachematrix.R",
+		"/Users/Anyi/Documents/R docs/Wearables.r",
+		"/Users/Anyi/Documents/R docs/CodeBook.md",
+		"/Users/Anyi/Documents/R docs/run_analysis.R",
+		"/Users/Anyi/Documents/pollutantmean.R",
+		"/complete.R",
+		"/pollutantmean.R",
+		"/Users/Anyi/Documents/R docs/data.for",
+		"/Users/Anyi/Documents/R docs/getdata-009_Tidying_Data_with_tidyr.txt",
+		"/Users/Anyi/Downloads/13663709001163391187barbell.svg",
+		"/Users/Anyi/Documents/R docs/data3.xml",
+		"/Users/Anyi/Downloads/shirts4mike-2.sql",
+		"/Applications/MAMP/htdocs/database.php",
+		"/Users/Anyi/Downloads/shirts4mike.sql",
+		"/Applications/MAMP/htdocs/css/my-styles.css",
+		"/Applications/MAMP/htdocs/code-snippets.html",
+		"/Applications/MAMP/htdocs/css/new.css",
+		"/Applications/MAMP/htdocs/css/new.cc",
+		"/Applications/MAMP/htdocs/css/untitled",
+		"/Applications/MAMP/htdocs/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/search/index.php",
+		"/Users/Anyi/Creative Cloud Files/Logo v1.svg"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"relative",
+			"AI insight",
+			"size",
+			"\");\n",
+			"400px",
+			"print \"Wait there are not 10 thing. Let's fix that.\"\n\n  stuff.ten_things.split(\" \")\n  more_stuff = [\"Day\", \"Night\", \"song\",\"frisbee\", \"corn\", \"banana\", \"girl\", \"boy\"]\n\n  while len(stuff) ! = 10:\n  	next_one = more_stuff.pop()\n  	print \"Adding: \", next_one\n  	stuff.append(next_one)\n  	print \"There are %d items now.\" % len(stuff)\n\n  print \"There we go: \", stuff\n\n  print \"Let's do some things with stuff.\"\n\n  print stuff[1]\n  print stuff[-1]\n  print stuff.pop()\n\n  print \" \".join(stuff)\n  print \"#\".join(stuff[3:5])\n",
+			"active"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 244.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_site/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 120902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "freelancer_pg.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
