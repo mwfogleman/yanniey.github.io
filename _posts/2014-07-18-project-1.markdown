@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2015-02-18
-img: cabin.png
-alt: web-development
+img: programming.png
+alt: programming
 project-date: Ongoing
 client: Start Bootstrap
 category: Web Development
