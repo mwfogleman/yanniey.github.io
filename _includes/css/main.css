@@ -448,6 +448,13 @@ footer .footer-below {
     width:200px;
 }
 
-.aboutlink {
-    color:#fff;
+.aboutlink, 
+.aboutlink:hover {
+    color:#fff; 
+}
+
+.aboutlink:hover, {
+    color:#fff !important;
+    text-decoration: underline;
+    opacity: .3;
 }
