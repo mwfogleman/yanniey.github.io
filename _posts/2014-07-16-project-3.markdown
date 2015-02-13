@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2015-02-11
+date: 2015-02-04
 img: travel2.png
 alt: travel
 project-date: Ongoing

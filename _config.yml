@@ -35,7 +35,7 @@ address:
   - line: twitter me @AnyiGuo
 
 # Credits content
-credits: 'Creating my first single page site with <a href="http://jekyllrb.com/">Jekyll</a> (Because PHP is almost out).'
+credits: 'Creating my first single page site with <a href="http://jekyllrb.com/">Jekyll</a>.'
 
 # Build settings
 markdown: kramdown

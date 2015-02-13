@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2015-02-11
+date: 2015-02-01
 img: photography.png
 alt: photography
 project-date: April 2014

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2015-02-11
+date: 2015-02-02
 img: mooc.png
 alt: mooc
 project-date: November 2014 - Now
