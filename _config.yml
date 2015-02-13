@@ -14,7 +14,7 @@ color:
 footer:
   copyright: Anyi Guo
   location: Chicago, IL
-  social: Around the Web
+  social: Me Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -35,7 +35,7 @@ address:
   - line: twitter me @AnyiGuo
 
 # Credits content
-credits: 'Creating my first single page site with <a href="http://jekyllrb.com/">Jekyll</a>.'
+credits: 'Created with love and <a href="http://jekyllrb.com/">Jekyll</a>.'
 
 # Build settings
 markdown: kramdown

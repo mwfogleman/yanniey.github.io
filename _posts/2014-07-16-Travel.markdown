@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-02-04
+img: travel2.png
+alt: travel
+project-date: Ongoing
+client: NA
+category: Travel
+description: I love moving around The game plan is to have lived in all continents of the world by the time I'm 30, which means I need to live in Oceania some time in the next few years. (I want to live in Melbourne! and Chiang Mai and then back to Berlin or Lisbon, my favorite cities.) Check out my travel journals <a href="http://anyiguo.com/category/travel/" class="hvr-float">here</a> and <a href="https://www.facebook.com/media/set/?set=a.10150882111802057.400880.707047056&type=1&l=a0f544a364" class="hvr-float">here</a>. 
+
+---

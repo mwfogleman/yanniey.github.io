@@ -1,5 +1,8 @@
-Freelancer Jekyll theme
+Anyi's Github User Page
 =========================
+## 2/12/15
+Added content for 2 out of 6 portfolio items, I think I can finish the whole site this weekend! :shipit:
+
 ## 2/10/15
  
 Changed color scheme, updated profile picture. Learning to create website with Jekyll.
