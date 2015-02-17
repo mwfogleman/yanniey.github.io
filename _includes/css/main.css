@@ -514,5 +514,5 @@ footer .footer-below {
 };
 
 .fa-search-plus:before {
-content: {{ post.category }};
+content: "{{ post.category }}";
 }
