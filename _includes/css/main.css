@@ -502,3 +502,13 @@ footer .footer-below {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+
+
+/*from show words when hovering over the portfolio */
+.caption .text{
+    visibility: hidden;
+};
+
+.caption:hover .text{
+    visibility: visible;
+};
