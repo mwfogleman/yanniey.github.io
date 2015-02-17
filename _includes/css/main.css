@@ -512,3 +512,7 @@ footer .footer-below {
 .caption:hover .text{
     visibility: visible;
 };
+
+.fa-search-plus:before {
+content: {{ post.category }};
+}
