@@ -284,6 +284,7 @@ section.success {
     padding-right: 0;
     padding-left: 0;
     border: 0;
+/*    border: 1px solid #ccc;*/
     border-radius: 0;
     font-size: 1.5em;
     background: 0 0;
@@ -501,4 +502,8 @@ footer .footer-below {
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+.networkTitle {
+    text-indent: -9999px;
 }
